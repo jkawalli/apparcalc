@@ -1,3 +1,4 @@
+#This is changes to check bug345fix
 sum=0
 echo " Enter one no."
 read n1
