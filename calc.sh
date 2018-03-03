@@ -1,4 +1,4 @@
-#This is changes to check bug345fix
+#This is changes to check bug345fix changes to merge onflit in VM
 sum=0
 echo " Enter one no."
 read n1
