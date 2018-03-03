@@ -1,6 +1,6 @@
 #This is changes to check bug345fix changes to merge onflit in VM
 #This is changes to check bug345fix added as line as merge conflict in browser
-
+#test the username 
 sum=0
 echo " Enter one no."
 read n1
